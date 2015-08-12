@@ -1,0 +1,7 @@
+[user]
+	email = k.tricky@gmail.com
+	name = Ahmed
+[color]
+	ui = auto
+[push]
+	default = simple
